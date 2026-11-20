@@ -264,14 +264,13 @@ while True:
 
         if answer == "b":
             print("Correct! Well done!")
-        else:
+        qelse:
             print("Incorrect! The correct answer is B.")
 
     elif choice == "0":
 
         print("\n==================================================")
-        print("       THANK YOU FOR USING PYTHON LEARNING HUB!")
-        print("              KEEP LEARNING!")
+        print("       THANK YOU FOR USING PYTHON LEARNING HUB.
         print("==================================================")
         break
 
